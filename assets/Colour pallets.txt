@@ -1,0 +1,69 @@
+1.
+Palette 1:
+Background: #333
+Text: #fff
+Button: #555
+Button Hover: #000
+
+2.
+Palette 2:
+Background: #333
+Text: #ddd
+Button: #666
+Button Hover: #000
+
+3.
+Palette 3:
+Background: #333
+Text: #ccc
+Button: #444
+Button Hover: #000
+
+4.
+Palette 4:
+Background: #333
+Text: #fff
+Button: #4caf50 (Material Green)
+Button Hover: #388e3c
+
+5.
+Palette 5:
+Background: #333
+Text: #fff
+Button: #2196f3 (Material Blue)
+Button Hover: #1976d2
+
+6.
+Palette 6:
+Background: #333
+Text: #fff
+Button: #ff9800 (Material Orange)
+Button Hover: #f57c00
+
+7.
+Palette 7:
+Background: #333
+Text: #fff
+Button: #9c27b0 (Material Purple)
+Button Hover: #7b1fa2
+
+8.
+Palette 8:
+Background: #333
+Text: #fff
+Button: #e91e63 (Material Pink)
+Button Hover: #c2185b
+
+9.
+Palette 9:
+Background: #333
+Text: #fff
+Button: #ff5722 (Material Deep Orange)
+Button Hover: #e64a19
+
+10.
+Palette 10:
+Background: #333
+Text: #fff
+Button: #00bcd4 (Material Cyan)
+Button Hover: #0097a7

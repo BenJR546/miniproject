@@ -1,0 +1,38 @@
+*{
+    background-color: #fff99f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header .navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff99f; /* Change the background color as needed */
+    z-index: 100; /* Ensure the header stays on top of other elements */
+}
+header button{
+    display: inline;
+    
+}
+#headertext{
+    text-align: right;
+    display: inline;
+}
+.navbar{
+    text-align: right;
+}
+.navbar a{
+    display: inline;
+    color: black;
+    background-color: #fff99f;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.navbar a:hover{
+    background-color: #440606;
+    color: #727272;
+    padding: 5px;
+}
+
+
